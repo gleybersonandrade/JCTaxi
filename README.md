@@ -5,7 +5,7 @@
 * Install freeglut3-dev
 * Install libpng-dev
 * Compile with: g++ main.cpp -o jctaxi -lglut -lGL -lGLU -lpng -w
-* Execute ./jctaxi and play :)
+* Run ./jctaxi and enjoy :smiley:
 
 ## Authors
 
